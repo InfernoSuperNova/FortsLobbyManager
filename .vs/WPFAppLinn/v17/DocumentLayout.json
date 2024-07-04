@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\willi\\source\\repos\\WPFAppLinn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\willi\\source\\repos\\WPFAppLinn\\WPFAppLinn\\obj\\Debug\\net8.0-windows\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WPFAppLinn\\obj\\Debug\\net8.0-windows\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6413E220-F011-4BCD-8288-2A5A21CAC7D9}|WPFAppLinn\\FortsLobbyManager.csproj|c:\\users\\willi\\source\\repos\\wpfapplinn\\wpfapplinn\\fortslobbymanagerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6413E220-F011-4BCD-8288-2A5A21CAC7D9}|WPFAppLinn\\FortsLobbyManager.csproj|solutionrelative:wpfapplinn\\fortslobbymanagerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6413E220-F011-4BCD-8288-2A5A21CAC7D9}|WPFAppLinn\\FortsLobbyManager.csproj|c:\\users\\willi\\source\\repos\\wpfapplinn\\wpfapplinn\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6413E220-F011-4BCD-8288-2A5A21CAC7D9}|WPFAppLinn\\FortsLobbyManager.csproj|solutionrelative:wpfapplinn\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6413E220-F011-4BCD-8288-2A5A21CAC7D9}|WPFAppLinn\\FortsLobbyManager.csproj|c:\\users\\willi\\source\\repos\\wpfapplinn\\wpfapplinn\\fortslogfilewatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6413E220-F011-4BCD-8288-2A5A21CAC7D9}|WPFAppLinn\\FortsLobbyManager.csproj|solutionrelative:wpfapplinn\\fortslogfilewatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6413E220-F011-4BCD-8288-2A5A21CAC7D9}|WPFAppLinn\\FortsLobbyManager.csproj|c:\\users\\willi\\source\\repos\\wpfapplinn\\wpfapplinn\\lobbysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6413E220-F011-4BCD-8288-2A5A21CAC7D9}|WPFAppLinn\\FortsLobbyManager.csproj|solutionrelative:wpfapplinn\\lobbysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6413E220-F011-4BCD-8288-2A5A21CAC7D9}|WPFAppLinn\\FortsLobbyManager.csproj|c:\\users\\willi\\source\\repos\\wpfapplinn\\wpfapplinn\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6413E220-F011-4BCD-8288-2A5A21CAC7D9}|WPFAppLinn\\FortsLobbyManager.csproj|solutionrelative:wpfapplinn\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6413E220-F011-4BCD-8288-2A5A21CAC7D9}|WPFAppLinn\\FortsLobbyManager.csproj|c:\\users\\willi\\source\\repos\\wpfapplinn\\wpfapplinn\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6413E220-F011-4BCD-8288-2A5A21CAC7D9}|WPFAppLinn\\FortsLobbyManager.csproj|solutionrelative:wpfapplinn\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6413E220-F011-4BCD-8288-2A5A21CAC7D9}|WPFAppLinn\\FortsLobbyManager.csproj|c:\\users\\willi\\source\\repos\\wpfapplinn\\wpfapplinn\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6413E220-F011-4BCD-8288-2A5A21CAC7D9}|WPFAppLinn\\FortsLobbyManager.csproj|solutionrelative:wpfapplinn\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.g.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\source\\repos\\WPFAppLinn\\WPFAppLinn\\obj\\Debug\\net8.0-windows\\App.g.cs",
+              "RelativeDocumentMoniker": "WPFAppLinn\\obj\\Debug\\net8.0-windows\\App.g.cs",
+              "ToolTip": "C:\\Users\\willi\\source\\repos\\WPFAppLinn\\WPFAppLinn\\obj\\Debug\\net8.0-windows\\App.g.cs",
+              "RelativeToolTip": "WPFAppLinn\\obj\\Debug\\net8.0-windows\\App.g.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAcwCMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T06:45:09.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FortsLobbyManagerData.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\source\\repos\\WPFAppLinn\\WPFAppLinn\\FortsLobbyManagerData.cs",
+              "RelativeDocumentMoniker": "WPFAppLinn\\FortsLobbyManagerData.cs",
+              "ToolTip": "C:\\Users\\willi\\source\\repos\\WPFAppLinn\\WPFAppLinn\\FortsLobbyManagerData.cs",
+              "RelativeToolTip": "WPFAppLinn\\FortsLobbyManagerData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T04:37:43.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FortsLogFileWatcher.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\source\\repos\\WPFAppLinn\\WPFAppLinn\\FortsLogFileWatcher.cs",
+              "RelativeDocumentMoniker": "WPFAppLinn\\FortsLogFileWatcher.cs",
+              "ToolTip": "C:\\Users\\willi\\source\\repos\\WPFAppLinn\\WPFAppLinn\\FortsLogFileWatcher.cs",
+              "RelativeToolTip": "WPFAppLinn\\FortsLogFileWatcher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T02:16:18.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LobbySettings.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\source\\repos\\WPFAppLinn\\WPFAppLinn\\LobbySettings.cs",
+              "RelativeDocumentMoniker": "WPFAppLinn\\LobbySettings.cs",
+              "ToolTip": "C:\\Users\\willi\\source\\repos\\WPFAppLinn\\WPFAppLinn\\LobbySettings.cs",
+              "RelativeToolTip": "WPFAppLinn\\LobbySettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:39:13.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\source\\repos\\WPFAppLinn\\WPFAppLinn\\Player.cs",
+              "RelativeDocumentMoniker": "WPFAppLinn\\Player.cs",
+              "ToolTip": "C:\\Users\\willi\\source\\repos\\WPFAppLinn\\WPFAppLinn\\Player.cs",
+              "RelativeToolTip": "WPFAppLinn\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:35:20.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\source\\repos\\WPFAppLinn\\WPFAppLinn\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WPFAppLinn\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\willi\\source\\repos\\WPFAppLinn\\WPFAppLinn\\AssemblyInfo.cs",
+              "RelativeToolTip": "WPFAppLinn\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:03:21.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\willi\\source\\repos\\WPFAppLinn\\WPFAppLinn\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFAppLinn\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\willi\\source\\repos\\WPFAppLinn\\WPFAppLinn\\MainWindow.xaml",
+              "RelativeToolTip": "WPFAppLinn\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-04T01:02:25.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\willi\\source\\repos\\WPFAppLinn\\WPFAppLinn\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFAppLinn\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\willi\\source\\repos\\WPFAppLinn\\WPFAppLinn\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPFAppLinn\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAwwCMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T01:02:24.106Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
